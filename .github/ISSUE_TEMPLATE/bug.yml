@@ -15,6 +15,3 @@ body:
   - type: textarea
     attributes:
       label: Steps to reproduce the behavior
-  - type: textarea
-     attributes:
-      label: Additional context (Add any other context about the problem here)
