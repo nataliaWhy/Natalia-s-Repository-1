@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**What analysis or research needs to be completed in order to complete a task (requirements task, testing task, development task, etc.**
+**Analysis or research which needs to be completed in order to complete a task (requirements task, testing task, development task, etc.**
 A description or analysis or research that needs to be completed
 
 **Describe the reason why this analysis needs to be completed**
