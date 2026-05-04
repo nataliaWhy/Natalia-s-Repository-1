@@ -1,6 +1,6 @@
 name: Task / Chore
 description: A development or operational task required to complete a user story or epic
-title: ""
+title: "Task or Chore"
 labels:
   - task
 body:
