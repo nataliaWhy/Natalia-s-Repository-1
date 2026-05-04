@@ -12,3 +12,14 @@ body:
       label: Expected behavior
     validations:
       required: true
+  - type: textarea
+    attributes:
+      label: Steps to reproduce the behavior:
+      1. Go to '...'
+      2. Click on '....'
+      3. Scroll down to '....'
+      4. See error
+  - type: textarea
+     attributes:
+      label: Additional context
+      Add any other context about the problem here.
