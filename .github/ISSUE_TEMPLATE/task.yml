@@ -1,4 +1,4 @@
-name: Task / Chore
+name: Task or Chore
 description: A development or operational task required to complete a user story or epic
 title: "Task or Chore"
 labels:
