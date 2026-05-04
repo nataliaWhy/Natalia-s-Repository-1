@@ -1,0 +1,17 @@
+name: Task / Chore
+description: A development or operational task required to complete a user story or epic
+title: ""
+labels:
+  - task
+body:
+  - type: textarea
+    id: task_description
+    attributes:
+      label: Describe what needs to be completed
+      description: >
+        Provide a clear and concise description of the task required to complete
+        a user story or epic (e.g., create a database table, build a UI form,
+        implement validation logic).
+      placeholder: What exactly needs to be done?
+    validations:
+      required: true
