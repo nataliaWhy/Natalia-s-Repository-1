@@ -1,0 +1,32 @@
+name: Spike
+description: Analysis or research needed to support future work
+title: "Spike: "
+labels:
+  - spike
+body:
+  - type: textarea
+    id: analysis
+    attributes:
+      label: Analysis or research to be completed
+      description: Describe the analysis or research required to support a task (requirements, testing, development, etc.).
+      placeholder: What needs to be researched or analyzed?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: Reason for the analysis
+      description: Explain why this analysis or research is necessary.
+      placeholder: What decision or risk does this spike address?
+    validations:
+      required: true
+
+  - type: textarea
+    id: output
+    attributes:
+      label: Expected output
+      description: Describe the expected output (e.g. document, diagram, recommendation).
+      placeholder: What artifacts or conclusions should result from this spike?
+    validations:
+      required: true
