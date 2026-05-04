@@ -10,7 +10,8 @@ assignees: ''
 **As a user [user type] I want [description of what user wants] so that [why the user wants it, what they are trying to accomplish].**
 A clear and concise user's need, in the above format. 
 
-**Acceptance Criteria*
+**Acceptance Criteria
+
 **Given: (context/pre-conditions)
 
 **When: (trigger)
