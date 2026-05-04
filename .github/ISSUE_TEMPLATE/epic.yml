@@ -28,4 +28,3 @@ body:
       label: Additional context
       description: Add any other context, screenshots, or references related to this epic.
       placeholder: Links, diagrams, dependencies, assumptions, etc.
-``
