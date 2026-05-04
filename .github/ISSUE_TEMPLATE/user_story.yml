@@ -1,6 +1,6 @@
 name: User Story
 description: Describe a specific user need or capability
-title: ""
+title: "User Story"
 labels:
   - story
 body:
