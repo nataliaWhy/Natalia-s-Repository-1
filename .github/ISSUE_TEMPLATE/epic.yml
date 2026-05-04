@@ -1,0 +1,32 @@
+name: Epic
+description: A high-level objective spanning multiple sprints and related user stories
+title: "Epic: "
+labels: ["epic"]
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: Describe the goal
+      description: A clear, specific, concise description of the user's need.
+      placeholder: What problem is this epic solving?
+    validations:
+      required: true
+
+  - type: textarea
+    id: business_value
+    attributes:
+      label: Describe business value
+      description: Explain the business value or impact of this epic.
+      placeholder: Why does this matter to the business?
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional context
+      description: Add any other context, screenshots, or references related to this epic.
+      placeholder: Links, diagrams, dependencies, assumptions, etc.
+    validations:
+      required: false
+``
