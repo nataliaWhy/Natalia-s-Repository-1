@@ -1,0 +1,33 @@
+name: User Story
+description: Describe a specific user need or capability
+title: ""
+labels:
+  - story
+body:
+  - type: textarea
+    id: user_story
+    attributes:
+      label: User story
+      description: >
+        Use the format:
+        As a user [user type], I want [goal], so that [benefit].
+      placeholder: As a user ..., I want ..., so that ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance_criteria
+    attributes:
+      label: Acceptance Criteria
+      description: >
+        Define acceptance criteria using the Given / When / Then format.
+        Include all expected outcomes: usability, user experience, workflows,
+        backend/database changes, etc.
+      placeholder: |
+        Given: some context or pre-conditions
+        When: an action or event occurs
+        Then:
+          - expected outcome 1
+          - expected outcome 2
+    validations:
+      required: true
