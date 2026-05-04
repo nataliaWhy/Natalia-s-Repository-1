@@ -10,3 +10,5 @@ body:
   - type: textarea
     attributes:
       label: Expected behavior
+    validations:
+      required: true
